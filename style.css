@@ -649,3 +649,8 @@ footer a {
    scroll-behavior: smooth;
   }
 }
+
+.timeline-content h3 a {
+  color: var(--primary);
+  text-decoration: underline;
+}
